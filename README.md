@@ -8,3 +8,6 @@ Demonstration
 
 https://github.com/highfunctioning/ANDROID-IDS/assets/60071703/06d0960d-b56e-4cc2-85b4-64ae91e9c779
 
+ADBSploit
+A python based tool for exploiting and managing Android devices via ADB
+
